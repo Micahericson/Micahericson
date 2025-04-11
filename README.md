@@ -1,8 +1,8 @@
 # About me
 
 
-- 🔭 I’m currently working on ... A few basic projects like calculators, using JavaScript, frameworks, and other foundational coding methods.
-- 🌱 I’m currently learning ... The ServiceNow platform as well as fullstack web development.
-- 🤔 I’m looking for help with ... Prioritizing the right skills so I can train myself into an effective techincal subject matter expert. 
+- 🔭 I’m currently working on ... Applying my developer skills for new projects using JavaScript, frameworks, and other foundational coding methods.
+- 🌱 I’m currently learning ... To focus my problem solving abilties on the ServiceNow platform as well as fullstack web development.
+- 🤔 I’m looking forward to ... Sharpening my skills so I can be an effective techincal subject matter expert in any field I find myself in. 
 
 
